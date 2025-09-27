@@ -1,13 +1,12 @@
 Get the user data
 process the data
-<<<<<<< HEAD
-data processing is done 
 
-create and avter and user
-=======
-data processing is done
 
 create and avter and user
 
-hello world
->>>>>>> feature1
+login and logout
+
+
+
+
+
